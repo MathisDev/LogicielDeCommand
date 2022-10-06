@@ -1,2 +1,2 @@
 # LogicielDeCommand
-Ce logiciel est un loiciel de gestion de commande coder en python3 avec tkinter lier a unebase de donner sql et un serveur ftp (une function qui permet d'enregistrer des donnés en local )
+Ce logiciel est une v1 d'un logiciel coder pour un clients , coder en python3 avec tkinter lier a une base de donner sqlite3 et un serveur ftp (une function qui permet d'enregistrer des donnés en local et presente par defaut )
